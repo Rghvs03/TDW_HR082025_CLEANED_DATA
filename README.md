@@ -21,6 +21,9 @@ The original dataset was messy, and I used **Python and Pandas** to process it i
 - `clean_data`: Final cleaned CSVs ready for use.
 - `Python_scripts`: Contains all scripts used for cleaning and organizing the data.
 
+> **Note:** Due to GitHub's size limits, large CSV files may not display as tables in the UI. For best results, download and open raw files with a spreadsheet editor or pandas.
+
+
 Quickly access raw files for reference, clean files for analysis, and scripts to review or reuse the cleaning steps.
 
 
