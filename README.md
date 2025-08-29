@@ -15,6 +15,14 @@ The original dataset was messy, and I used **Python and Pandas** to process it i
 - **Jupyter Notebook / VS Code** (for implementation)  
 
 ---
+## 📁 Folder Structure
+
+- `raw_data`: Original, unprocessed datasets.
+- `clean_data`: Final cleaned CSVs ready for use.
+- `Python_scripts`: Contains all scripts used for cleaning and organizing the data.
+
+Quickly access raw files for reference, clean files for analysis, and scripts to review or reuse the cleaning steps.
+
 
 ## 📌 Data Cleaning Process
 
